@@ -1,0 +1,20 @@
+{
+  "name": "dafu-erp",
+  "description": "An ERP system for DA FU",
+  "main": "server.js",
+  "authors": [
+    "JF Studio"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0"
+  }
+}
